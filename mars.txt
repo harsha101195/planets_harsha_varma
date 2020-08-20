@@ -1,1 +1,3 @@
-It is cold and dry here
+It is cold and dry here.
+
+Here is an other fact about mars.
